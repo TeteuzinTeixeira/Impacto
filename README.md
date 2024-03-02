@@ -1,7 +1,7 @@
 # Intruções para iniciar o site
 
 ## Requisitos
- - NodeJS (versão recomendada)
+ - NodeJS (20.0)
 
 ## Comandos de inicialização
  - `npm install`: Instala as dependências do projeto.
